@@ -3,6 +3,7 @@
 namespace Royalcms\Component\ErrorDisplay;
 
 use Royalcms\Component\Support\ServiceProvider;
+use RC_Hook;
 
 class ErrorDisplayServiceProvider extends ServiceProvider
 {
