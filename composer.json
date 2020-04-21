@@ -25,6 +25,11 @@
     "extra": {
         "branch-alias": {
             "dev-master": "5.x-dev"
+        },
+        "royalcms": {
+            "providers": [
+                "Royalcms\\Component\\ErrorDisplay\\ErrorDisplayServiceProvider"
+            ]
         }
     },
     "minimum-stability": "dev"
